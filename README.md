@@ -1,4 +1,4 @@
-# Homework 0
+# Problem Set 0
 
 Assignment status: PENDING
 
