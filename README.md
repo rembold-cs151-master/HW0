@@ -1,12 +1,12 @@
 # Problem Set 0
 <details>
-<summary>_metadata_</summary>
-Category: problem-set
-Points: 20
-Due: 2021-09-05
+<summary><em>metadata</em></summary>
+Category: problem-set<br>
+Points: 20<br>
+Due: 2021-09-05<br>
 </details>
 
-[ ] Submitted?
+- [ ] Submitted?
 
 _Please insert an x in the square brackets above to mark the assignment as submitted!_
 
