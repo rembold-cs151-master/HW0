@@ -3,13 +3,13 @@
 # 
 # Your name:
 # Who did you work with (if anyone)?:
-# Estimate for time spent (in hrs)?:
+# Estimate for time spent on this prob (in hrs)?:
 #====================================================
 
 # I've just laid out a basic starting function below, but remember that you
 # absolutely should define more helping functions to decompose the problem
 # into smaller pieces! Here I'm leaving those pieces (and helper functions)
-# up to you to design and name as you see fit
+# up to you to design and name as you see fit. Don't forget comments!
 
 import karel
 

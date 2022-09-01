@@ -3,7 +3,7 @@
 # 
 # Your name:
 # Who did you work with (if anyone)?:
-# Estimate for time spent (in hrs)?:
+# Estimate for time spent on this problem (in hrs)?:
 #====================================================
 
 # I've just laid out a basic starting function below. 
