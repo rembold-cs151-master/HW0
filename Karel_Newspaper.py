@@ -1,16 +1,16 @@
-#====================================================
+#========================================================
 # Filename: Karel_Newspaper.py
 # 
 # Your name:
 # Who did you work with (if anyone)?:
 # Estimate for time spent on this problem (in hrs)?:
-#====================================================
+#========================================================
 
 # I've just laid out a basic starting function below. 
 # While this problem is fairly simple, you should still practice
 # the good habit of writing helper functions to decompose the problem
 # into smaller pieces. I have provided you with a template for the
-# main function and then 3 helping functions as outlined in the pdf
+# main function and then 3 helping functions as outlined in the PDF
 
 import karel
 
