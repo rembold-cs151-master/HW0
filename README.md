@@ -1,6 +1,6 @@
 # Problem Set 1
 
-Due the night of January 27 at midnight
+Due the night of September 11 at midnight
 
 ## Instructions:
 The pdf has all the basic instructions, but here are some additional guidelines.
