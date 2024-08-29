@@ -1,9 +1,7 @@
 # Problem Set 1
 
-Due the night of September 11 at midnight
-
 ## Instructions:
-The pdf has all the basic instructions, but here are some additional guidelines.
+The guide has all the basic instructions, but here are some additional guidelines.
 - [ ] Code for Problem 1 should be written in the file called `Karel_Newspaper.py` included in the repository. Please do not forget to fill out the meta-data information in the comments at the top of the template!
 	- Your program only has to work for a single world in this case, which is loaded by default.
 - [ ] Code for Problem 2 should be written in the file called `Karel_Painting.py` included in the repository. Please do not forget to fill out the meta-data information in the comments at the top of the template!
